@@ -36,7 +36,7 @@ const navigate=useNavigate("")
 
   return (
     <Box p={4} m={"auto"} w={"40%"} boxShadow= "rgba(0, 0, 0, 0.16) 0px 1px 4px">
-      <Heading as="h1" size="xl">User Registration</Heading>
+      <Heading as="h1" size="xl">User Authentication</Heading>
       <form onSubmit={handleSubmit}>
         <FormControl mt={4}>
           <FormLabel>Name:</FormLabel>
