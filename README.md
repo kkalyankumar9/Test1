@@ -25,7 +25,7 @@ Install dependencies
 ## Vercel deployed
 https://fe-kummarikalyan010-gmailcom.vercel.app/
 
-##MongoDB
+## MongoDB
 mongodb+srv://kkalyan:kalyan@cluster0.iisergf.mongodb.net/recorddata?retryWrites=true&w=majority
 
 ![image](https://github.com/kkalyankumar9/Test1/assets/112814583/1875c54d-e477-473e-84cf-ee6364696816)
